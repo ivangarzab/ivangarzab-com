@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 // Replace with your Formspree endpoint after creating a form at https://formspree.io
-const FORMSPREE_ENDPOINT = "https://formspree.io/f/YOUR_FORM_ID";
+const FORMSPREE_ENDPOINT = "https://formspree.io/f/mgonlywe";
 
 export default function Contact() {
   const [status, setStatus] = useState<"idle" | "submitting" | "success" | "error">("idle");
