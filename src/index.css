@@ -267,17 +267,17 @@ section {
 }
 
 .company-detail {
-    font-size: 13px;
-    color: var(--ink-dim);
+    font-size: 14px;
+    color: var(--ink-muted);
     margin-top: 10px;
     line-height: 1.55;
 }
 
 .company-period {
     font-family: var(--mono);
-    font-size: 10px;
+    font-size: 12px;
     font-weight: 300;
-    color: var(--ink-dim);
+    color: var(--ink-muted);
     text-align: right;
     letter-spacing: 0.06em;
     padding-top: 6px;
@@ -321,8 +321,8 @@ section {
 
 .project-number {
     font-family: var(--mono);
-    font-size: 10px;
-    color: var(--ink-dim);
+    font-size: 11px;
+    color: var(--ink-muted);
     letter-spacing: 0.14em;
     margin-bottom: 20px;
 }
@@ -337,7 +337,7 @@ section {
 }
 
 .project-desc {
-    font-size: 13.5px;
+    font-size: 14px;
     font-weight: 300;
     color: var(--ink-muted);
     line-height: 1.6;
@@ -353,10 +353,10 @@ section {
 
 .tag {
     font-family: var(--mono);
-    font-size: 9px;
+    font-size: 10px;
     font-weight: 400;
-    color: var(--ink-dim);
-    border: 0.5px solid var(--ink-dim);
+    color: var(--ink-muted);
+    border: 0.5px solid var(--ink-muted);
     padding: 3px 7px;
     letter-spacing: 0.1em;
     text-transform: uppercase;
