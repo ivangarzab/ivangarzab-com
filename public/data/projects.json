@@ -5,7 +5,8 @@
     "desc": "Full-stack book club management system: React + Vite frontend | Supabase backend with private Edge Functions API | Mobile KMP app for Android + iOS | Python Discord bot.",
     "tags": ["KMP", "Supabase", "React", "Vite", "Discord", "Python"],
     "url": "https://github.com/ivangarzab/bookclub-frontend",
-    "urlLabel": "View on GitHub →"
+    "urlLabel": "View on GitHub →",
+    "icon": "/images/ic-kluvs.png"
   },
   {
     "number": "02",
@@ -13,7 +14,8 @@
     "desc": "Open-source Kotlin Multiplatform logging library. Lightweight, opinionated, built for the community.",
     "tags": ["Kotlin", "KMP", "Open Source"],
     "url": "https://github.com/ivangarzab/barK",
-    "urlLabel": "View on GitHub →"
+    "urlLabel": "View on GitHub →",
+    "icon": "/images/ic-bark.png"
   },
   {
     "number": "03",
@@ -21,6 +23,7 @@
     "desc": "Solo Android car management app — fully Compose, Material 3, dark mode, 70%+ unit test coverage with JUnit and MockK.",
     "tags": ["Kotlin", "Compose", "Material 3", "Maestro"],
     "url": "https://play.google.com/store/apps/details?id=com.ivangarzab.carrus",
-    "urlLabel": "Play Store →"
+    "urlLabel": "Play Store →",
+    "icon": "/images/ic-carrus.png"
   }
 ]

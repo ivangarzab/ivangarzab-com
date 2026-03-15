@@ -14,6 +14,7 @@ export interface Project {
   tags: string[];
   url: string;
   urlLabel: string;
+  icon?: string;
 }
 
 export interface Experience {

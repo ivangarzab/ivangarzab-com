@@ -372,6 +372,20 @@ section + section {
     color: var(--gold);
 }
 
+.project-icon {
+    position: absolute;
+    top: 24px;
+    right: 24px;
+    width: 38px;
+    height: 38px;
+    opacity: 0.25;
+    transition: opacity 0.25s;
+}
+
+.project-card:hover .project-icon {
+    opacity: 0.6;
+}
+
 /* ── OSS CARD ── */
 .oss-card {
     background: var(--surface-1);

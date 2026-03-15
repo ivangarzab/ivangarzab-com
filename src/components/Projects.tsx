@@ -7,6 +7,9 @@ export default function Projects({ projects }: { projects: Project[] }) {
       <div className="projects-grid">
         {projects.map((p) => (
           <div className="project-card" key={p.name}>
+            {p.icon && (
+              <img className="project-icon" src={p.icon} alt="" aria-hidden="true" />
+            )}
             <div className="project-number">{p.number}</div>
             <div className="project-name">{p.name}</div>
             <p className="project-desc">{p.desc}</p>
