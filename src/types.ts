@@ -24,3 +24,8 @@ export interface Experience {
   period: string;
   current?: boolean;
 }
+
+export interface Quote {
+  text: string;
+  author: string;
+}

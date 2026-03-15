@@ -1,13 +1,17 @@
-export default function Footer() {
+import type { Quote } from "../types";
+
+export default function Footer({ quote }: { quote: Quote | null }) {
   return (
     <footer>
       <span className="footer-copy">
         © 2026 Iván Garza Bermea · ivangb6@gmail.com
       </span>
-      <p className="footer-quote">
-        "One must imagine Sisyphus happy."
-        <br />— Albert Camus
-      </p>
+      {quote && (
+        <p className="footer-quote">
+          "{quote.text}"
+          <br />— {quote.author}
+        </p>
+      )}
     </footer>
   );
 }
