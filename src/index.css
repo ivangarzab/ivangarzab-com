@@ -86,9 +86,6 @@ section {
     padding: 96px 0;
 }
 
-section + section {
-    border-top: 0.5px solid rgba(201, 169, 110, 0.08);
-}
 
 .section-label {
     font-family: var(--mono);
