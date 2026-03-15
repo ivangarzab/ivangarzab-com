@@ -6,7 +6,13 @@ export default function Projects({ projects }: { projects: Project[] }) {
       <div className="section-label">Projects</div>
       <div className="projects-grid">
         {projects.map((p) => (
-          <div className="project-card" key={p.name}>
+          <a
+            className="project-card"
+            key={p.name}
+            href={p.url}
+            target="_blank"
+            rel="noreferrer"
+          >
             {p.icon && (
               <img className="project-icon" src={p.icon} alt="" aria-hidden="true" />
             )}
@@ -20,15 +26,8 @@ export default function Projects({ projects }: { projects: Project[] }) {
                 </span>
               ))}
             </div>
-            <a
-              href={p.url}
-              className="project-link"
-              target="_blank"
-              rel="noreferrer"
-            >
-              {p.urlLabel}
-            </a>
-          </div>
+            <span className="project-link">{p.urlLabel}</span>
+          </a>
         ))}
       </div>
 

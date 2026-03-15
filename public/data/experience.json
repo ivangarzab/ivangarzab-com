@@ -5,6 +5,7 @@
     "location": "San Francisco, California",
     "detail": "Working on the Risk & Protection, helping make car sharing safer for hosts and guests. Kotlin, MVVM, Jetpack Compose.",
     "period": "Sep 2025 — present",
+    "url": "https://turo.com/",
     "current": true
   },
   {
@@ -12,20 +13,23 @@
     "role": "Senior Android Engineer",
     "location": "Remote",
     "detail": "Built a native Android SDK for compliance UI/UX tracking — view hierarchy analysis, snapshot capture on every screen change, secure upload pipeline. Kotlin multi-module.",
-    "period": "Jun 2025 — Jan 2026"
+    "period": "Jun 2025 — Jan 2026",
+    "url": "https://complyco.com/"
   },
   {
     "company": "Mixhalo",
     "role": "Senior Android Engineer (Lead)",
     "location": "San Francisco, California",
     "detail": "Led Android team end-to-end — zero to 60k+ live event users. Private SDK integrated by the NFL, NBA, MLB, and NASCAR. 75%+ test coverage, 60% faster CI/CD, JNI/NDK audio engine under 500ms latency.",
-    "period": "Nov 2019 — May 2025"
+    "period": "Nov 2019 — May 2025",
+    "url": "https://mixhalo.com/"
   },
   {
     "company": "Smule",
     "role": "Android Engineer",
     "location": "San Francisco, California",
     "detail": "Discoverability and UX for 50M monthly active users. Led the main flow redesign and helped transition the entire Android team to Kotlin.",
-    "period": "Feb 2018 — Nov 2019"
+    "period": "Feb 2018 — Nov 2019",
+    "url": "https://www.smule.com/"
   }
 ]

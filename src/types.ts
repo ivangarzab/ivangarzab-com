@@ -19,6 +19,7 @@ export interface Project {
 
 export interface Experience {
   company: string;
+  url?: string;
   role: string;
   detail?: string;
   location?: string;

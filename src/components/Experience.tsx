@@ -9,7 +9,13 @@ export default function Experience({ experience }: { experience: ExperienceType[
           <div className="company-row" key={job.company}>
             <div>
               <div className="company-name">
-                {job.company}
+                {job.url ? (
+                  <a href={job.url} target="_blank" rel="noreferrer" className="company-link">
+                    {job.company}
+                  </a>
+                ) : (
+                  job.company
+                )}
                 {job.current && (
                   <span className="company-badge">Current</span>
                 )}
