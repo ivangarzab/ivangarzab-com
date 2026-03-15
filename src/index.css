@@ -80,6 +80,12 @@ nav {
     max-width: 900px;
     margin: 0 auto;
     padding: 0 40px;
+    opacity: 0;
+    transition: opacity 0.4s ease;
+}
+
+.page.loaded {
+    opacity: 1;
 }
 
 section {
@@ -639,4 +645,81 @@ footer {
     max-width: 280px;
     text-align: right;
     line-height: 1.5;
+}
+
+/* ── TABLET ── */
+@media (max-width: 768px) {
+    .projects-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* ── MOBILE ── */
+@media (max-width: 600px) {
+    nav {
+        padding: 16px 20px;
+    }
+
+    .nav-links {
+        display: none;
+    }
+
+    .page {
+        padding: 0 20px;
+    }
+
+    section {
+        padding: 60px 0;
+    }
+
+    .about-grid {
+        grid-template-columns: 1fr;
+        gap: 40px;
+    }
+
+    .about-text {
+        font-size: 18px;
+    }
+
+    .company-row {
+        grid-template-columns: 1fr;
+        gap: 4px;
+    }
+
+    .company-period {
+        text-align: left;
+        padding-top: 2px;
+    }
+
+    .projects-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .oss-card {
+        grid-template-columns: 1fr;
+        gap: 16px;
+    }
+
+    .post-row {
+        grid-template-columns: 10px 1fr auto;
+    }
+
+    .post-source {
+        display: none;
+    }
+
+    .form-row-2 {
+        grid-template-columns: 1fr;
+    }
+
+    footer {
+        flex-direction: column;
+        gap: 16px;
+        align-items: flex-start;
+    }
+
+    .footer-quote {
+        text-align: left;
+        max-width: 100%;
+    }
 }

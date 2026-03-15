@@ -15,6 +15,7 @@ export default function App() {
   const [projects, setProjects] = useState<Project[]>([]);
   const [writing, setWriting] = useState<WritingEntry[]>([]);
   const [quote, setQuote] = useState<Quote | null>(null);
+  const [loaded, setLoaded] = useState(false);
 
   useEffect(() => {
     Promise.all([
@@ -27,13 +28,14 @@ export default function App() {
       setProjects(proj);
       setWriting(writ);
       setQuote(quotes[Math.floor(Math.random() * quotes.length)]);
+      setLoaded(true);
     });
   }, []);
 
   return (
     <>
       <Nav />
-      <div className="page">
+      <div className={`page${loaded ? " loaded" : ""}`}>
         <Hero />
         <About />
         <ExperienceSection experience={experience} />

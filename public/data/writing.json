@@ -77,7 +77,7 @@
     "source": "Medium",
     "year": "2023",
     "featured": false,
-    "paid": false
+    "paid": true
   },
   {
     "title": "Introducing the Animated Vector Drawable (AVD) for Android",
@@ -85,7 +85,7 @@
     "source": "Medium",
     "year": "2022",
     "featured": false,
-    "paid": false
+    "paid": true
   },
   {
     "title": "Introducing the Kotlin Playground",
