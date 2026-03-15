@@ -1,0 +1,106 @@
+[
+  {
+    "title": "bark: A Lightweight Logging Library for Android",
+    "url": "https://medium.com/gitconnected/bark-a-lightweight-logging-library-for-android-14583711bc04",
+    "source": "Medium",
+    "year": "2024",
+    "featured": true,
+    "paid": false
+  },
+  {
+    "title": "An Inquiry into Publishing a KMP Library to Maven Central",
+    "url": "https://medium.com/gitconnected/an-inquiry-into-publishing-a-kmp-library-to-maven-central-8351bd5e50dc",
+    "source": "Medium",
+    "year": "2024",
+    "featured": true,
+    "paid": true
+  },
+  {
+    "title": "Publish a Public Android Library using JitPack",
+    "url": "https://medium.com/gitconnected/publishing-a-public-android-library-using-jitpack-20843eb2dfc3",
+    "source": "Medium",
+    "year": "2024",
+    "featured": true,
+    "paid": true
+  },
+  {
+    "title": "An Inquiry into Creating & Hosting a Discord Bot",
+    "url": "https://medium.com/gitconnected/an-inquiry-into-creating-hosting-a-discord-bot-631b24fdda73",
+    "source": "Medium",
+    "year": "2023",
+    "featured": false,
+    "paid": true
+  },
+  {
+    "title": "An Inquiry into the Android WebView for Jetpack Compose",
+    "url": "https://medium.com/gitconnected/an-inquiry-into-the-android-webview-for-jetpack-compose-35cb52e29622",
+    "source": "Medium",
+    "year": "2023",
+    "featured": false,
+    "paid": true
+  },
+  {
+    "title": "An Inquiry into Android Material 3's PullToRefreshBox",
+    "url": "https://medium.com/gitconnected/an-inquiry-into-android-material-3s-pulltorefreshbox-ffdb9656d239",
+    "source": "Medium",
+    "year": "2024",
+    "featured": false,
+    "paid": true
+  },
+  {
+    "title": "Inquiry into Android SplashScreen API [2023]",
+    "url": "https://medium.com/proandroiddev/inquiry-into-the-android-splashscreen-api-2023-e955946573b1",
+    "source": "Medium",
+    "year": "2023",
+    "featured": false,
+    "paid": true
+  },
+  {
+    "title": "An Inquiry into Android's App Links",
+    "url": "https://medium.com/gitconnected/an-inquiry-into-androids-app-links-2d6918666c9e",
+    "source": "Medium",
+    "year": "2023",
+    "featured": false,
+    "paid": true
+  },
+  {
+    "title": "An Inquiry into Android's In-App Reviews",
+    "url": "https://medium.com/proandroiddev/an-inquiry-into-androids-in-app-reviews-3a10083eec1a",
+    "source": "Medium",
+    "year": "2023",
+    "featured": false,
+    "paid": false
+  },
+  {
+    "title": "An Inquiry into Android's Internal App Sharing",
+    "url": "https://medium.com/gitconnected/an-inquiry-into-androids-internal-app-sharing-a9ad2b9ae2a3",
+    "source": "Medium",
+    "year": "2023",
+    "featured": false,
+    "paid": false
+  },
+  {
+    "title": "Introducing the Animated Vector Drawable (AVD) for Android",
+    "url": "https://medium.com/geekculture/introduction-to-animated-vector-drawable-avd-for-android-8db301ad0776",
+    "source": "Medium",
+    "year": "2022",
+    "featured": false,
+    "paid": false
+  },
+  {
+    "title": "Introducing the Kotlin Playground",
+    "url": "https://medium.com/proandroiddev/introducing-the-kotlin-playground-e3625c05a109",
+    "source": "Medium",
+    "year": "2022",
+    "featured": false,
+    "paid": false
+  },
+  {
+    "title": "Setting up Firebase Crashlytics NDK",
+    "url": "https://medium.com/proandroiddev/setting-up-firebase-crashlytics-ndk-a7770a447d5f",
+    "source": "Medium",
+    "year": "2022",
+    "featured": false,
+    "paid": false
+  }
+]
