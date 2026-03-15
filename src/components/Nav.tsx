@@ -2,7 +2,7 @@ export default function Nav() {
   return (
     <nav>
       <a href="#" className="nav-logo">
-        ivangarzab
+        ivángarzab
       </a>
       <ul className="nav-links">
         <li>
