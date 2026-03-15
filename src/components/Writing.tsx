@@ -1,15 +1,6 @@
-import { useEffect, useState } from "react";
 import type { WritingEntry } from "../types";
 
-export default function Writing() {
-  const [writing, setWriting] = useState<WritingEntry[]>([]);
-
-  useEffect(() => {
-    fetch("/data/writing.json")
-      .then((res) => res.json())
-      .then(setWriting);
-  }, []);
-
+export default function Writing({ writing }: { writing: WritingEntry[] }) {
   return (
     <section id="writing">
       <div className="section-label">Writing</div>

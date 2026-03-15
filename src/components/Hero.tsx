@@ -57,7 +57,7 @@ export default function Hero() {
           target="_blank"
           rel="noreferrer"
         >
-          All otherr links
+          All other links
         </a>
       </div>
     </div>

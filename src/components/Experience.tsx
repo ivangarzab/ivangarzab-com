@@ -1,15 +1,6 @@
-import { useEffect, useState } from "react";
 import type { Experience as ExperienceType } from "../types";
 
-export default function Experience() {
-  const [experience, setExperience] = useState<ExperienceType[]>([]);
-
-  useEffect(() => {
-    fetch("/data/experience.json")
-      .then((res) => res.json())
-      .then(setExperience);
-  }, []);
-
+export default function Experience({ experience }: { experience: ExperienceType[] }) {
   return (
     <section id="work">
       <div className="section-label">Experience</div>

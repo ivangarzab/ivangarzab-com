@@ -1,15 +1,6 @@
-import { useEffect, useState } from "react";
 import type { Project } from "../types";
 
-export default function Projects() {
-  const [projects, setProjects] = useState<Project[]>([]);
-
-  useEffect(() => {
-    fetch("/data/projects.json")
-      .then((res) => res.json())
-      .then(setProjects);
-  }, []);
-
+export default function Projects({ projects }: { projects: Project[] }) {
   return (
     <section id="projects">
       <div className="section-label">Projects</div>
