@@ -16,7 +16,7 @@ export default function Writing({ writing }: { writing: WritingEntry[] }) {
             <span className="post-star">✦</span>
             <span className="post-title">{post.title}</span>
             <span className="post-meta">
-              {post.paid && <span className="paywall-badge">Member</span>}
+              {post.paid && <span className="paywall-badge">Paid</span>}
               {post.year}
             </span>
             <span className="post-source">{post.source}</span>

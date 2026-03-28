@@ -1,9 +1,25 @@
 [
   {
+    "title": "A Robot in the White House",
+    "url": "https://open.substack.com/pub/ivangarzab/p/an-educating-robot-in-the-white-house?utm_campaign=post-expanded-share&utm_medium=post%20viewer",
+    "source": "Substack",
+    "year": "2026",
+    "featured": true,
+    "paid": false
+  },
+  {
+    "title": "On the United States' AI Manifesto",
+    "url": "https://substack.com/@ivangarzab/note/c-231235410?utm_source=notes-share-action&r=1ok1h8",
+    "source": "Substack",
+    "year": "2026",
+    "featured": true,
+    "paid": false
+  },
+  {
     "title": "bark: A Lightweight Logging Library for Android",
     "url": "https://medium.com/gitconnected/bark-a-lightweight-logging-library-for-android-14583711bc04",
     "source": "Medium",
-    "year": "2024",
+    "year": "2025",
     "featured": true,
     "paid": false
   },
@@ -11,7 +27,7 @@
     "title": "An Inquiry into Publishing a KMP Library to Maven Central",
     "url": "https://medium.com/gitconnected/an-inquiry-into-publishing-a-kmp-library-to-maven-central-8351bd5e50dc",
     "source": "Medium",
-    "year": "2024",
+    "year": "2025",
     "featured": true,
     "paid": true
   },
@@ -19,7 +35,7 @@
     "title": "Publish a Public Android Library using JitPack",
     "url": "https://medium.com/gitconnected/publishing-a-public-android-library-using-jitpack-20843eb2dfc3",
     "source": "Medium",
-    "year": "2024",
+    "year": "2025",
     "featured": true,
     "paid": true
   },
@@ -27,7 +43,7 @@
     "title": "An Inquiry into Creating & Hosting a Discord Bot",
     "url": "https://medium.com/gitconnected/an-inquiry-into-creating-hosting-a-discord-bot-631b24fdda73",
     "source": "Medium",
-    "year": "2023",
+    "year": "2025",
     "featured": false,
     "paid": true
   },
@@ -35,7 +51,7 @@
     "title": "An Inquiry into the Android WebView for Jetpack Compose",
     "url": "https://medium.com/gitconnected/an-inquiry-into-the-android-webview-for-jetpack-compose-35cb52e29622",
     "source": "Medium",
-    "year": "2023",
+    "year": "2024",
     "featured": false,
     "paid": true
   },
@@ -59,7 +75,7 @@
     "title": "An Inquiry into Android's App Links",
     "url": "https://medium.com/gitconnected/an-inquiry-into-androids-app-links-2d6918666c9e",
     "source": "Medium",
-    "year": "2023",
+    "year": "2024",
     "featured": false,
     "paid": true
   },
