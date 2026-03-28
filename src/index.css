@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Mono:wght@300;400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400;1,600&family=DM+Mono:wght@300;400&display=swap");
 
 *,
 *::before,
@@ -17,7 +17,7 @@
     --surface-2: #1e1b16;
     --surface-3: #252118;
     --gold: #c9a96e;
-    --serif: "Cormorant Garamond", Georgia, serif;
+    --serif: "Lora", Georgia, serif;
     --mono: "DM Mono", monospace;
 }
 
