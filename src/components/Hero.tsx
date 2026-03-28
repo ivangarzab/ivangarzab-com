@@ -16,15 +16,6 @@ export default function Hero() {
       </p>
       <div className="hero-links">
         <a
-          href="https://github.com/ivangarzab"
-          className="hero-link"
-          target="_blank"
-          rel="noreferrer"
-        >
-          GitHub
-        </a>
-        <span className="hero-divider">/</span>
-        <a
           href="https://linkedin.com/in/ivangarzab"
           className="hero-link"
           target="_blank"
@@ -34,12 +25,30 @@ export default function Hero() {
         </a>
         <span className="hero-divider">/</span>
         <a
+          href="https://github.com/ivangarzab"
+          className="hero-link"
+          target="_blank"
+          rel="noreferrer"
+        >
+          GitHub
+        </a>
+        <span className="hero-divider">/</span>
+        <a
           href="https://medium.ivangarzab.com"
           className="hero-link"
           target="_blank"
           rel="noreferrer"
         >
           Medium
+        </a>
+        <span className="hero-divider">/</span>
+        <a
+          href="https://substack.com/@ivangarzab"
+          className="hero-link"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Substack
         </a>
         <span className="hero-divider">/</span>
         <a
