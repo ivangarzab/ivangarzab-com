@@ -33,7 +33,14 @@ export default function Writing({ writing }: { writing: WritingEntry[] }) {
           All writing on Medium →
         </a>
         <span className="hero-divider">/</span>
-        <span className="writing-soon">Substack &amp; Dev.to — 2026</span>
+        <a
+          href="https://substack.com/@ivangarzab"
+          className="hero-link"
+          target="_blank"
+          rel="noreferrer"
+        >
+          All writing on Substack →
+        </a>
       </div>
     </section>
   );
