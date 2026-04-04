@@ -9,16 +9,15 @@
   ivangarzab.com
 </h1>
 
-Personal portfolio for **Iván Garza Bermea** — Senior Software Engineer & M.A. Philosophy.
-
+<img src="public/title-line.png" alt="Iván Garza Bermea — Senior Software Engineer & M.A. Philosophy" width="100%" />
 
 ## Stack
 
 Built with **Claude**: Vite + React + TypeScript. Deployed on Vercel.
 
-- **React 19** — component-per-section architecture
+- **React** — component-per-section architecture
 - **TypeScript** — shared types in `src/types.ts`
-- **Vite 8** — dev server and build
+- **Vite** — dev server and build
 - **Formspree** — contact form submissions
 - **Vercel** — hosting and CI/CD
 
@@ -70,7 +69,3 @@ All content lives in `public/data/`. No code changes required:
 | `projects.json` | Projects — `"icon"` points to a file in `public/images/` |
 | `writing.json` | Published articles |
 | `quotes.json` | Footer quotes — one is picked at random on each load |
-
-## Contact form
-
-Powered by [Formspree](https://formspree.io). To change the destination endpoint, update `FORMSPREE_ENDPOINT` in `src/components/Contact.tsx`.
