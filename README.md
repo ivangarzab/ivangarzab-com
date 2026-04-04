@@ -1,10 +1,20 @@
-# ivangarzab.com
+[![Site](https://img.shields.io/badge/ivangarzab.com-visit-c9a96e?style=flat)](https://ivangarzab.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ivangarzab-181717?logo=github)](https://github.com/ivangarzab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ivangarzab-0A66C2?logo=linkedin)](https://linkedin.com/in/ivangarzab)
+[![Medium](https://img.shields.io/badge/Medium-ivangarzab-000000?logo=medium&logoColor=white)](https://medium.ivangarzab.com)
+[![Substack](https://img.shields.io/badge/Substack-ivangarzab-FF6719?logo=substack&logoColor=white)](https://substack.com/@ivangarzab)
 
-Personal portfolio for Iván Garza Bermea — Senior Software Engineer & M.A. Philosophy candidate.
+<h1>
+  <img src="public/logo.svg" width="64" height="64" alt="logo" valign="middle" />
+  ivangarzab.com
+</h1>
 
-Built with Vite + React + TypeScript. Deployed on Vercel.
+Personal portfolio for **Iván Garza Bermea** — Senior Software Engineer & M.A. Philosophy.
+
 
 ## Stack
+
+Built with **Claude**: Vite + React + TypeScript. Deployed on Vercel.
 
 - **React 19** — component-per-section architecture
 - **TypeScript** — shared types in `src/types.ts`
