@@ -32,6 +32,14 @@
     "paid": false
   },
   {
+    "title": "bark: KMP Logging Library for iOS",
+    "url": "https://medium.com/gitconnected/bark-kmp-logging-library-for-ios-1522519e19c5",
+    "source": "Medium",
+    "year": "2026",
+    "featured": true,
+    "paid": false
+  },
+  {
     "title": "An Inquiry into Publishing a KMP Library to Maven Central",
     "url": "https://medium.com/gitconnected/an-inquiry-into-publishing-a-kmp-library-to-maven-central-8351bd5e50dc",
     "source": "Medium",
@@ -44,7 +52,7 @@
     "url": "https://medium.com/gitconnected/publishing-a-public-android-library-using-jitpack-20843eb2dfc3",
     "source": "Medium",
     "year": "2025",
-    "featured": true,
+    "featured": false,
     "paid": true
   },
   {

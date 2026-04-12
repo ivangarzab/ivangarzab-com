@@ -4,7 +4,7 @@
     "name": "Kluvs",
     "desc": "Full-stack book club management system: React + Vite frontend | Supabase backend with private Edge Functions API | Mobile KMP app for Android + iOS | Python Discord bot.",
     "tags": ["KMP", "Supabase", "React", "Vite", "Discord", "Python"],
-    "url": "https://github.com/ivangarzab/bookclub-frontend",
+    "url": "https://github.com/kluvs-app",
     "urlLabel": "Go to GitHub →",
     "icon": "/images/ic-kluvs.png"
   },
